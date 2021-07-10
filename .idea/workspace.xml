@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01bfc3b2-2f81-4cfa-a421-9167c97ad053" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Test/src/com/etienne/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/com/etienne/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa-hibernate-one-to-many-mysql-rest/src/main/java/com/hellokoding/jpa/bidirectional/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa-hibernate-one-to-many-mysql-rest/src/main/java/com/hellokoding/jpa/bidirectional/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa-hibernate-one-to-many-mysql-rest/src/main/java/com/hellokoding/jpa/bidirectional/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa-hibernate-one-to-many-mysql-rest/src/main/java/com/hellokoding/jpa/bidirectional/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa-hibernate-one-to-many-mysql-rest/src/main/java/com/hellokoding/jpa/bidirectional/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa-hibernate-one-to-many-mysql-rest/src/main/java/com/hellokoding/jpa/bidirectional/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa-hibernate-one-to-many-mysql-rest/src/main/java/com/hellokoding/jpa/bidirectional/TestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa-hibernate-one-to-many-mysql-rest/src/main/java/com/hellokoding/jpa/bidirectional/TestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa-hibernate-one-to-many-mysql-rest/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa-hibernate-one-to-many-mysql-rest/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1v3uJuyPHWRBHOppKAg7jHH9MPH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.etienne" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\istvan\IdeaProjects\hellokoding-courses\jpa-hibernate-examples\kafka\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.KafkaProducerApp">
+    <configuration name="KafkaProducerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.etienne.KafkaProducerApp" />
+      <module name="kafka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.etienne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaSubscriberApp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.etienne.KafkaSubscriberApp1" />
+      <module name="kafka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.etienne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaSubscriberApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.etienne.KafkaSubscriberApp2" />
+      <module name="kafka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.etienne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaSubscriberApp3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.etienne.KafkaSubscriberApp3" />
+      <module name="kafka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.etienne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaSubscriberApp4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.etienne.KafkaSubscriberApp4" />
+      <module name="kafka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.etienne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KafkaProducerApp" />
+        <item itemvalue="Application.KafkaSubscriberApp3" />
+        <item itemvalue="Application.KafkaSubscriberApp4" />
+        <item itemvalue="Application.KafkaSubscriberApp2" />
+        <item itemvalue="Application.KafkaSubscriberApp1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01bfc3b2-2f81-4cfa-a421-9167c97ad053" name="Default Changelist" comment="" />
+      <created>1625803024616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625803024616</updated>
+      <workItem from="1625803029381" duration="4801000" />
+      <workItem from="1625822560357" duration="7319000" />
+      <workItem from="1625919215558" duration="2457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

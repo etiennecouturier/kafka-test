@@ -1,0 +1,10 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(ùÃ­­şÿÿÿÿ8­ëìæ¨/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Êì®Ô8”¸øæ¨/
+j
+java:S1128"MRemove this unused import 'org.apache.kafka.clients.consumer.ConsumerRecord'.(±’–„8»Ãç¨/
+Q
+java:S3740"/Provide the parametrized type for this generic.(ùÃ­­şÿÿÿÿ8­ëìæ¨/
+H
+java:S1874",Remove this use of "poll"; it is deprecated.(‘²çz8¦‘õæ¨/

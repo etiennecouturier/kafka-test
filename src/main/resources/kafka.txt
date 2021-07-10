@@ -1,0 +1,16 @@
+cd /usr/local/bin/kafka/
+
+sudo ./bin/zookeeper-server-start.sh ./config/zookeeper.properties
+sudo ./bin/kafka-server-start.sh ./config/server.properties
+sudo ./bin/kafka-topics.sh --create --topic my_topic --zookeeper localhost:2181 --replication-factor 3 --partitions 3
+sudo ./bin/kafka-topics.sh --alter --topic my-topic --zookeeper localhost:2181 --partitions 3
+sudo ./bin/kafka-topics.sh --list --zookeeper localhost:2181
+sudo ./bin/kafka-console-producer.sh --broker-list localhost:9092 --topic my_topic
+sudo ./bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic my_topic --from-beginning
+sudo ./bin/kafka-producer-perf-test.sh --topic my_topic --num-records 50 --record-size 1 --throughput 10 --producer-props bootstrap.servers=localhost:9092
+
+# start several brokers
+sudo ./bin/kafka-server-start.sh ./config/server-0.properties
+sudo ./bin/kafka-server-start.sh ./config/server-1.properties
+sudo ./bin/kafka-server-start.sh ./config/server-2.properties
+
